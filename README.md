@@ -7,4 +7,5 @@ Competitor Amazon Sales, Reviews and Rating Analysis
 
 ![image](https://github.com/user-attachments/assets/a0bfb2c7-3450-4a51-b67e-0ef400eaee19)
 
-![image](https://github.com/user-attachments/assets/17ec26bb-5ec3-4423-956a-bc8a008dfeff)
+![image](https://github.com/user-attachments/assets/f7c1e2fa-e89f-4366-90db-89dd5d9572f3)
+
